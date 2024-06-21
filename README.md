@@ -71,3 +71,16 @@ docker stack ls
 ```
 
 این دستورات به شما کمک می‌کنند تا بتوانید پروژه لود بالانس خود را در داکر سوآرم پیاده‌سازی کنید و مدیریت سرویس‌ها و نودهای خود را به بهترین شکل انجام دهید. برای اطلاعات بیشتر و دستورات پیشرفته‌تر، می‌توانید به مستندات رسمی داکر مراجعه کنید.
+
+
+[![1](./photos/1.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/2.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/3.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/4.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/5.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/6.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/7.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/8.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/9.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/10.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/11.jpg)](https://github.com/pouria-azad/load-balancing)
