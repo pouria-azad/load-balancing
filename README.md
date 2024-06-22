@@ -82,13 +82,34 @@ docker stack ls
 [![1](./photos/7.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/8.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/9.jpg)](https://github.com/pouria-azad/load-balancing)
+ - آپدیت‬‫کردن‬ ‫تعداد‬ ‫نود‬ ‫های‬ ‫سرویس‬
+#<br>
 [![1](./photos/10.jpg)](https://github.com/pouria-azad/load-balancing)
+- لاگ ها
+#<br>
 [![1](./photos/11.jpg)](https://github.com/pouria-azad/load-balancing)
+‫- ابتدا ‬‫یک‬ ‫پوشه‬ ‫با‬ ‫نام‬ ‫دلخواه‬ ‫ایجاد‬ ‫میکنیم‬ ‫تا‬ ‫فایل‬ ‫های‬ ‫استک‬ ‫را‬ ‫آنجا‬
+‫قرار‬‫دهیم‬
+#<br>
 [![1](./photos/12.jpg)](https://github.com/pouria-azad/load-balancing)
+‫- سپس ‬‫کانفیگ‬ ‫های‬ ‫مورد‬ ‫نظر‬ ‫را‬ ‫انجام‬ ‫میدهیم‬ ‫و‬ ‫با‬ ‫استفاده‬ ‫از‬ ‫دستور‬
+  زیر فایل‬ ‫کانفیگ‬ ‫استک‬ ‫را‬ ‫اجرا‬ ‫میکنیم‬
+#<br>
 [![1](./photos/13.jpg)](https://github.com/pouria-azad/load-balancing)
+‫- همانطور ‬‫که‬ ‫مشاهده‬ ‫میکنید‬ ‫دو‬ ‫سرویس‬ ‫داریم‬
+#<br>
 [![1](./photos/14.jpg)](https://github.com/pouria-azad/load-balancing)
+‫- که ‬‫با‬ ‫دستور‬‬ ‫میتوانیم‬ ‫ببینیم‬ ‫سرویس‬ ‫اپپ‬ ‫در‬ ‫کدام‬ ‫نود‬ ‫ها‬ ‫اجرا‬
+‫میشود‬
+#<br>
 [![1](./photos/15.jpg)](https://github.com/pouria-azad/load-balancing)
+‫- این هم ‬‫سرویس‬ ‫انجینکس‬
+#<br>
 [![1](./photos/16.jpg)](https://github.com/pouria-azad/load-balancing)
+‫- خروجی ‬‫نهایی‬ ‫ما‬ ‫بدین‬ ‫صورت‬ ‫است‬ ‫که‬ ‫با‬ ‫هربار‬ ‫رفرش‬ ‫کرد‬ن‬ ‫آدرس‬
+‫یکی از نودها‪،‬‬ ‫متوجه‬ ‫میشویم‬ ‫که‬ ‫سایت‬ ‫ما‬ ‫در‬ ‫نود‬ ‫و‬ ‫کانتینر‬ ‫متفاوتی‬
+‫اجرا ‬‫میشود‬ ‫که‬ ‫نام‬ ‫این‬ ‫عمل‬ ‫لود‬ ‫باالنسینگ‬(الگوریتم راند رابین) ‫است‬ ‫‪..‬‬
+#<br>
 [![1](./photos/17.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/18.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/19.jpg)](https://github.com/pouria-azad/load-balancing)
