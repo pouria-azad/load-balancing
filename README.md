@@ -89,3 +89,6 @@ docker stack ls
 [![1](./photos/14.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/15.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/16.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/17.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/18.jpg)](https://github.com/pouria-azad/load-balancing)
+[![1](./photos/19.jpg)](https://github.com/pouria-azad/load-balancing)
