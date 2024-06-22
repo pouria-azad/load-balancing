@@ -113,3 +113,5 @@ docker stack ls
 [![1](./photos/17.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/18.jpg)](https://github.com/pouria-azad/load-balancing)
 [![1](./photos/19.jpg)](https://github.com/pouria-azad/load-balancing)
+
+#### با تشکر از دوست خوبم [جلال افخمی](https://github.com/mrjalal80) که منتور این پروژه بود ❤️
